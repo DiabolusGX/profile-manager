@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "An app to maintain your device's sound profile according to your preferences and schedule."
   }
 }
